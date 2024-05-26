@@ -1,4 +1,4 @@
-from utils import centroid , get_coordinates_xyz_from_string # utilities
+from .utils import centroid , get_coordinates_xyz_from_string # utilities
 import copy
 import numpy as np
 
